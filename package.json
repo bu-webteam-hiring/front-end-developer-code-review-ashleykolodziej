@@ -3,10 +3,10 @@
 	"version": "1.0.0",
 	"description": "A repository for better understanding front-end development candidate skillsets.",
 	"devDependencies": {
-		"grunt": "~0.4.5",
-		"grunt-contrib-copy": "^0.7.0",
+		"grunt": "~1.0.1",
+		"grunt-contrib-copy": "^1.0.0",
 		"grunt-sass": "^2.0.0",
-		"grunt-contrib-watch": "^0.6.1",
-		"grunt-notify": "^0.4.1"
+		"grunt-contrib-watch": "^1.0.0",
+		"grunt-notify": "^0.4.5"
 	}
 }
